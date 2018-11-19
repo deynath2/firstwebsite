@@ -1,0 +1,45 @@
+{
+  "name": "firstwebsite",
+ 
+ "version": "1.0.0",
+ 
+ "description": "first website by Deiby Mejia Ruiz",
+ 
+ "main": "index.js",
+  
+"scripts": {
+   
+ "start": "node src",
+    
+"dev": "node src"
+  },
+ 
+ "keywords": [
+    "first",
+  
+  "website",
+    "practice",
+    
+"javascript",
+    "css",
+    "html",
+
+    "json",
+    "Deiby",
+  
+  "Mejia",
+    "Ruiz",
+    "Deynath"
+  ],
+
+  "author": "Deiby Ruiz",
+ 
+ "license": "ISC",
+  
+"dependencies": {},
+ 
+ "devDependencies":
+ {
+    "nodemon": "^1.18.6"
+  }
+}
